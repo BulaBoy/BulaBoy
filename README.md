@@ -30,7 +30,7 @@
     <td width="50%" valign="top">
       <h3><code>// CORE_TECH</code></h3>
       <code><b>FRONTEND:</b></code> Next.js / React / Anime.js<br>
-      <code><b>BACKEND:</b></code> Node.js / Real-time Sockets<br>
+      <code><b>BACKEND:</b></code> Node.js / PHP / Real-time Sockets<br>
       <code><b>ART:</b></code> Musician / Sound Design<br>
       <code><b>OS:</b></code> <a href="https://bula.su">BULA OS v3.0</a>
     </td>
