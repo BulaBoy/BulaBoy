@@ -22,16 +22,16 @@
         Я не пишу код, я создаю цифровой опыт. Пока остальные плодят скучные лендинги, я выстраиваю экосистемы. Если это не выглядит как искусство и не работает как швейцарские часы — мне это не интересно.
       </blockquote>
       <p align="left">
-        📍 <b>Location:</b> 🇪🇺 Europe<br>
+        📍 <b>Location:</b>R(U) RUSSIA<br>
         ⚡ <b>Energy:</b> Over 9000 (Dragon Ball mode)<br>
-        🧪 <b>Vibe:</b> Fullstack Chaos
+        🧪 <b>Vibe:</b> Junior Frontend Developer
       </p>
     </td>
     <td width="50%" valign="top">
       <h3><code>// CORE_TECH</code></h3>
       <code><b>FRONTEND:</b></code> Next.js / React / Anime.js<br>
       <code><b>BACKEND:</b></code> Node.js / Real-time Sockets<br>
-      <code><b>ART:</b></code> AI Generation / Sound Design<br>
+      <code><b>ART:</b></code> Musician / Sound Design<br>
       <code><b>OS:</b></code> <a href="https://bula.su">BULA OS v3.0</a>
     </td>
   </tr>
@@ -67,7 +67,7 @@
   <tr>
     <td align="center">
       <h3><code>// CONNECT_WITH_ME</code></h3>
-      <a href="https://t.me/bula_boy">
+      <a href="https://t.me/thisbulaboy">
         <img src="https://img.shields.io/badge/TELEGRAM-000?style=for-the-badge&logo=telegram&logoColor=white" />
       </a>
       <a href="mailto:contact@bula.su">
